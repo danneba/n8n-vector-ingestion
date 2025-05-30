@@ -35,7 +35,8 @@ This workflow automates the process of loading documents from Google Drive, spli
 
 ## 🧩 Screenshot
 
-![AI Embedding Workflow](assets/n8n-vector-flow.png)
+
+![n8n flow](assets/n8n-flow.png)
 
 ---
 
